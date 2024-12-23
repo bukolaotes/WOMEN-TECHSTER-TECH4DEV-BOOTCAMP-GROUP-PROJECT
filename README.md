@@ -11,3 +11,13 @@ Sustainable development goal (SDG) 1; No Poverty, is one of the 17 Sustainable D
 - Identify key poverty drivers and regional disparities as well as,
 - Propose data-driven recommendations for effective poverty alleviation. 
 
+# Key Socio-Economic Indicators for SDG1
+
+Some key indicators include:
+-	Income levels and distribution (Gini index)
+
+-	Employment and unemployment rates
+
+- Access to basic services like education, healthcare, etc. 
+
+These indicators help identify the causes, distribution, and effects of poverty
