@@ -65,14 +65,18 @@ Tools Used:
 - Power business intelligence (Power bi)
 
 Recommendation
-•	Reduce Inequality: Implement progressive taxation policies to reduce income inequality and fund public services such as healthcare, education etc. Wealth redistribution mechanisms like targeted transfers or subsidies can help close the gap between rich and poor.
-•	Invest in Education and Skill Development: Increase access to education by ensuring that education is free, universal, and of high quality. Focus on both primary and secondary education, as well as vocational training, and adult literacy programs, to help individuals build the skills necessary for better employment opportunities. 
-•	Provision of grants to help SMEs: SMEs help poverty reduction by providing employment and stimulating local economies.
 
-      Conclusion
-•	The relationship between socio-economic indicators and poverty is two-way dynamic — meaning, both factors influence each other in complex ways. 
+- Reduce Inequality: Implement progressive taxation policies to reduce income inequality and fund public services such as healthcare, education etc. Wealth redistribution mechanisms like targeted transfers or subsidies can help close the gap between rich and poor.
+  
+- Invest in Education and Skill Development: Increase access to education by ensuring that education is free, universal, and of high quality. Focus on both primary and secondary education, as well as vocational training, and adult literacy programs, to help individuals build the skills necessary for better employment opportunities.
+  
+- Provision of grants to help SMEs: SMEs help poverty reduction by providing employment and stimulating local economies.
 
-•	Poverty and most of the socio-economic indicators move in opposite directions, although Gini Index is likely to move in the direction of poverty rate. 
+Conclusion
 
-•	The aim of SDG 1 is to eradicate poverty in all its forms, and some organizations like World bank and UNDP are working towards that by implementing comprehensive strategies and policies to achieve this goal.
+- The relationship between socio-economic indicators and poverty is two-way dynamic — meaning, both factors influence each other in complex ways. 
+
+- Poverty and most of the socio-economic indicators move in opposite directions, although Gini Index is likely to move in the direction of poverty rate. 
+
+- The aim of SDG 1 is to eradicate poverty in all its forms, and some organizations like World bank and UNDP are working towards that by implementing comprehensive strategies and policies to achieve this goal.
 
