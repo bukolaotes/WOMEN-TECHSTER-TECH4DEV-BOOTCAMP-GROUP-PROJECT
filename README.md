@@ -79,4 +79,5 @@ Conclusion
 - Poverty and most of the socio-economic indicators move in opposite directions, although Gini Index is likely to move in the direction of poverty rate. 
 
 - The aim of SDG 1 is to eradicate poverty in all its forms, and some organizations like World bank and UNDP are working towards that by implementing comprehensive strategies and policies to achieve this goal.
+![image](https://github.com/user-attachments/assets/884a5c2a-e289-4092-a83a-3aa36c2b1d6a)
 
