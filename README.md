@@ -21,3 +21,15 @@ Some key indicators include:
 - Access to basic services like education, healthcare, etc. 
 
 These indicators help identify the causes, distribution, and effects of poverty
+
+
+# Dataset Structure
+
+The dataset contains key indicators;
+
+-	unemployment rate (%),
+-	literacy rate (%), 
+-	Healthcare access (%),
+-	income per capita,
+-	Gini index, 
+-	life expectancy, and child mortality rate showing the poverty rate (%) across fifteen (15) countries between 2019-2023.
