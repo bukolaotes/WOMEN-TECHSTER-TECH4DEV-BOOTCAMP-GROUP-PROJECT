@@ -33,3 +33,11 @@ The dataset contains key indicators;
 -	income per capita,
 -	Gini index, 
 -	life expectancy, and child mortality rate showing the poverty rate (%) across fifteen (15) countries between 2019-2023.
+
+
+# Data Analysis 
+Poverty rate across regions and countries
+
+-	South America shows the highest poverty rate of 33.60% while Africa shows the least with 26.27%
+-	Turkey is the country with the highest poverty rate of 43.21% while Pakistan has the least rate of 18.68%
+-	Poverty rate increased progressively from 2019-2021, which could be as a result of the COVID-19 outbreak.
